@@ -1,0 +1,5 @@
+name: Pathauto test
+core: 8.x
+type: module
+dependencies:
+  - pathauto
