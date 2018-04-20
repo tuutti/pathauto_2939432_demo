@@ -1,0 +1,17 @@
+{
+  "name": "drupal/pathauto_test",
+  "type": "drupal-module",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/tuutti/pathauto_2939432_demo"
+    }
+  ],
+  "require": {
+    "php": ">=7.1",
+    "drupal/pathauto": "^1.1"
+  }
+}
